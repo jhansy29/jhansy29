@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a graduate student pursuing a **Master’s in Artifi
 
 ---
 
-## 🧑‍🏫 Graduate Teaching Assistant @ FAU | Aug 2024 – Present
+## 🧑‍🏫 Graduate Teaching Assistant @ FAU | Jan 2025 – Present
 
 I'm currently working as a **Teaching Assistant for CAP 6315: Social Networks**, where I help students explore graph algorithms, community detection, and real-world network problems.
 
